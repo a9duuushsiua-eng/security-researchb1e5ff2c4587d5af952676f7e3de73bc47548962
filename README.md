@@ -34,4 +34,4 @@ correct the patches when you see mistakes.
 
 Please read up our
 [Contribution](https://github.com/google/security-research/blob/master/CONTRIBUTING.md)
-policy.
+policy.TECNO POP 7
